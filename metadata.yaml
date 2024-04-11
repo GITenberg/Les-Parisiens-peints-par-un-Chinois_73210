@@ -1,0 +1,40 @@
+_repo: Les-Parisiens-peints-par-un-Chinois_73210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tcheng, Ki-tong
+    aliases:
+    - Tcheng-ki-tong
+    - Tscheng, Ki-tong
+    - 陈季同
+    - Chen, Jitong
+    - 陈敬如
+    - 陳季同
+    birthdate: 1851
+    deathdate: 1907
+    gutenberg_agent_id: '49914'
+    url: http://www.gutenberg.org/2009/agents/49914
+    wikipedia: https://en.wikipedia.org/wiki/Chen_Jitong
+description: ''
+gutenberg_issued: '2024-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73210'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1669685
+pgterms:marc905: 20230404114619chen
+pgterms:marc906: '1891'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bCharpentier, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Social life and customs'
+- !lcc 'DC'
+- GITenberg
+title: Les Parisiens peints par un Chinois
+url: http://www.gutenberg.org/ebooks/73210
