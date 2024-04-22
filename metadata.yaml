@@ -1,5 +1,8 @@
 _repo: Les-Parisiens-peints-par-un-Chinois_73210
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73210-h/images/cover.jpg
 creator:
   author:
     agent_name: Tcheng, Ki-tong
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49914
     wikipedia: https://en.wikipedia.org/wiki/Chen_Jitong
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73210#Les-Parisiens-peints-par-un-Chinois
 gutenberg_issued: '2024-03-20'
 gutenberg_type: Text
 identifiers:
